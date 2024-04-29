@@ -1,4 +1,4 @@
-# Useful Visual Studio Code Commands
+# Visual Studio Code Shortcuts
 
 ## File
 - `Ctrl+N`: New File
